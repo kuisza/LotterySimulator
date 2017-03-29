@@ -92,7 +92,7 @@ public class Week {
                     six++;
                 }
                 else if (retain == 6 && sup == ourlotteryticket.Supernumber) {
-                    six++;
+                    sixsup++;
                 }
 
                 System.out.println("----------");
